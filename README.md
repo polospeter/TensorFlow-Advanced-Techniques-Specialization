@@ -17,3 +17,11 @@ http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 http://slazebni.cs.illinois.edu/spring17/lec09_similarity.pdf
 
 Assignment: Multiple Output Models using Keras Functional API
+
+#### Week 2: A New Programming Paradigm
+
+
+#### Week 3: A New Programming Paradigm
+
+
+#### Week 4: A New Programming Paradigm
