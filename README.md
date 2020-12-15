@@ -18,10 +18,15 @@ http://slazebni.cs.illinois.edu/spring17/lec09_similarity.pdf
 
 Assignment: Multiple Output Models using Keras Functional API
 
-#### Week 2: A New Programming Paradigm
+#### Week 2: Custom Loss Functions
+Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
 
 
-#### Week 3: A New Programming Paradigm
 
 
-#### Week 4: A New Programming Paradigm
+#### Week 3: Custom Layers
+Custom layers give you the flexibility to implement models that use non-standard layers. Practice building off of existing standard layers to create custom layers for your models.
+
+
+#### Week 4: Custom Models
+Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
