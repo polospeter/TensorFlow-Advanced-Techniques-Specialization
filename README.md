@@ -19,8 +19,7 @@ http://slazebni.cs.illinois.edu/spring17/lec09_similarity.pdf
 Assignment: Multiple Output Models using Keras Functional API
 
 #### Week 2: Custom Loss Functions
-Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
-
+Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
 
 
 
