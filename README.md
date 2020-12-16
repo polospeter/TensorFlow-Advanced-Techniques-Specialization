@@ -32,6 +32,8 @@ Loss functions help measure how well a model is doing, and are used to help a ne
 
 ## Course 2: Custom and Distributed training with Tensorflow
 
-#### Week 1: Custom Layers
+#### Week 1: Differentiation and Gradients
+
+Reference: CNN for visual recognition: https://cs231n.github.io/neural-networks-3/#summary
 
 
