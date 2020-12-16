@@ -34,6 +34,6 @@ Loss functions help measure how well a model is doing, and are used to help a ne
 
 #### Week 1: Differentiation and Gradients
 
-Reference: CNN for visual recognition: https://cs231n.github.io/neural-networks-3/#summary
+Reference: CNN for visual recognition https://cs231n.github.io/neural-networks-3/#summary
 
 
