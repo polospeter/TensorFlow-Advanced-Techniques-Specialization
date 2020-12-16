@@ -6,7 +6,7 @@ This repository will contain my solutions for the Tensorflow: Advanced Specializ
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
-#### \underline{Week 1: A New Programming Paradigm}
+\underline{#### Week 1: A New Programming Paradigm}
 Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
 
 Good article describing the different versions of the Inception network:  
