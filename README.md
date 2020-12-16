@@ -36,9 +36,10 @@ Loss functions help measure how well a model is doing, and are used to help a ne
 This week, you will get a detailed look at the fundamental building blocks of TensorFlow - tensor objects. For example, you will be able to describe the difference between eager mode and graph mode in TensorFlow, and explain why eager mode is very user friendly for you as a developer. You will also use TensorFlow tools to calculate gradients so that you don’t have to look for your old calculus textbooks next time you need to get a gradient!
 
 Learning Objectives:
--Use various TensorFlow functions to create tensor objects
--Describe the difference between graph-based execution and eager execution in TensorFlow
--Use TensorFlow’s GradientTape to calculate derivatives of loss functions
+
+-Use various TensorFlow functions to create tensor objects  
+-Describe the difference between graph-based execution and eager execution in TensorFlow  
+-Use TensorFlow’s GradientTape to calculate derivatives of loss functions  
 
 
 
@@ -47,7 +48,8 @@ Reference: CNN for visual recognition https://cs231n.github.io/neural-networks-3
 #### Week 2: Custom Training
 This week, you will build custom training loops using GradientTape and TensorFlow Datasets. Being able to write your own training loops will give you more flexibility and visibility with your model training. You will also use a function to calculate the derivatives of functions so that you don’t have to look to your old calculus textbooks to calculate gradients.
 
-Learning Objectives
-Define the steps in a custom training loop
-Implement custom training loops using GradientTape
-Implement a custom training loop with data from TensorFlow Datasets
+Learning Objectives:
+
+-Define the steps in a custom training loop  
+-Implement custom training loops using GradientTape  
+-Implement a custom training loop with data from TensorFlow Datasets  
