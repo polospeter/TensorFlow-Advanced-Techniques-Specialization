@@ -44,4 +44,6 @@ Learning Objectives:
 
 Reference: CNN for visual recognition https://cs231n.github.io/neural-networks-3/#summary
 
+#### Week 2: Custom Training
+This week, you will build custom training loops using GradientTape and TensorFlow Datasets. Being able to write your own training loops will give you more flexibility and visibility with your model training. You will also use a function to calculate the derivatives of functions so that you don’t have to look to your old calculus textbooks to calculate gradients.
 
