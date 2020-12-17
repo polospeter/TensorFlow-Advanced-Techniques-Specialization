@@ -41,8 +41,6 @@ Learning Objectives:
 -Describe the difference between graph-based execution and eager execution in TensorFlow  
 -Use TensorFlow’s GradientTape to calculate derivatives of loss functions  
 
-
-
 Reference: CNN for visual recognition https://cs231n.github.io/neural-networks-3/#summary
 
 #### Week 2: Custom Training
@@ -54,6 +52,8 @@ Learning Objectives:
 -Implement custom training loops using GradientTape  
 -Implement a custom training loop with data from TensorFlow Datasets  
 
+#### Week 3: Graph mode
+This week, you’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
 
 
 
