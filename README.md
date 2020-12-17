@@ -53,3 +53,11 @@ Learning Objectives:
 -Define the steps in a custom training loop  
 -Implement custom training loops using GradientTape  
 -Implement a custom training loop with data from TensorFlow Datasets  
+
+
+
+
+#### Week 4: Distributed training
+
+References used in Other Distributed Strategies:
+https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
