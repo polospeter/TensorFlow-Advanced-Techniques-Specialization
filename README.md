@@ -25,19 +25,11 @@ Loss functions help measure how well a model is doing, and are used to help a ne
 #### Week 3: Custom Layers
 Custom layers give you the flexibility to implement models that use non-standard layers. Practice building off of existing standard layers to create custom layers for your models.
 
-Learning Objectives
-Describe when graph mode code is preferred over eager mode code
-Use decorators and tf.autograph to convert code into graph based code
-
 
 #### Week 4: Custom Models
 Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
 
-Learning Objectives:  
 
--Explain how distributed training is different from regular model training
--Use the Mirrored Strategy to train a model on multiple GPUs on the same device
--Use the TPU Strategy to train on multiple cores of a TPU
 
 ## Course 2: Custom and Distributed training with Tensorflow
 
@@ -64,11 +56,19 @@ Learning Objectives:
 #### Week 3: Graph mode
 This week, you’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
 
+Learning Objectives
+Describe when graph mode code is preferred over eager mode code
+Use decorators and tf.autograph to convert code into graph based code
 
 
 #### Week 4: Distributed training
 This week, you will harness the power of distributed training to process more data and train larger models, faster. You’ll get an overview of various distributed training strategies and then practice working with two strategies, one that trains on multiple GPU cores, and the other that trains on multiple TPU cores. Get your cape ready, because you’re going to get some superpowers this week!
 
+Learning Objectives:  
+
+-Explain how distributed training is different from regular model training
+-Use the Mirrored Strategy to train a model on multiple GPUs on the same device
+-Use the TPU Strategy to train on multiple cores of a TPU
 
 References used in Other Distributed Strategies:
 https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
