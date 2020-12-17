@@ -56,9 +56,10 @@ Learning Objectives:
 #### Week 3: Graph mode
 This week, you’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
 
-Learning Objectives
-Describe when graph mode code is preferred over eager mode code
-Use decorators and tf.autograph to convert code into graph based code
+Learning Objectives:
+
+-Describe when graph mode code is preferred over eager mode code
+-Use decorators and tf.autograph to convert code into graph based code
 
 
 #### Week 4: Distributed training
