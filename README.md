@@ -33,10 +33,11 @@ Use decorators and tf.autograph to convert code into graph based code
 #### Week 4: Custom Models
 Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
 
-Learning Objectives
-Explain how distributed training is different from regular model training
-Use the Mirrored Strategy to train a model on multiple GPUs on the same device
-Use the TPU Strategy to train on multiple cores of a TPU
+Learning Objectives:  
+
+-Explain how distributed training is different from regular model training
+-Use the Mirrored Strategy to train a model on multiple GPUs on the same device
+-Use the TPU Strategy to train on multiple cores of a TPU
 
 ## Course 2: Custom and Distributed training with Tensorflow
 
