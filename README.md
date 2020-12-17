@@ -63,6 +63,7 @@ References used in Other Distributed Strategies:
 
 
 ## Course 3: Advanced Computer Vision with Tensorflow
+https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
 
 
 #### Week 1: Introduction to Computer Vision
@@ -78,4 +79,15 @@ Learning Objectives:
 -Implement object localization with a CNN
 -Implement an image classifier with transfer learning
 
-https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
+Papers about Image segmentation models:
+
+Fully Convolutional Networks for Semantic Segmentation https://people.eecs.berkeley.edu/~shelhamer/data/fcn.pdf
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+http://liangchiehchen.com/projects/DeepLab.html
+
+Mask R-CNN https://arxiv.org/abs/1703.06870
+
+
