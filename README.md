@@ -62,10 +62,20 @@ Learning Objectives:
 References used in Other Distributed Strategies:
 
 
-## Course 3: Custom Models,Layers, and Loss Functions with Tensorflow
+## Course 3: Advanced Computer Vision with Tensorflow
 
-This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
-#### Week 1: A New Programming Paradigm
-Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
+#### Week 1: Introduction to Computer Vision
+Get a conceptual overview of image classification, object localization, object detection, and image segmentation. Also be able to describe multi-label classification, and distinguish between semantic segmentation and instance segmentation. In the rest of this course, you will apply TensorFlow to build object detection and image segmentation models.
+
+Learning Objectives:
+
+-Distinguish between object localization and object detection
+-Distinguish between object detection and image segmentation
+-Distinguish between semantic segmentation and instance segmentation
+-Explain what is transfer learning and why it's used
+-Describe design options when using transfer learning
+-Implement object localization with a CNN
+-Implement an image classifier with transfer learning
+
 https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
