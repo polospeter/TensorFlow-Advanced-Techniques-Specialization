@@ -58,8 +58,8 @@ This week, you’ll learn about the benefits of generating code that runs in “
 
 Learning Objectives:
 
--Describe when graph mode code is preferred over eager mode code
--Use decorators and tf.autograph to convert code into graph based code
+- Describe when graph mode code is preferred over eager mode code
+- Use decorators and tf.autograph to convert code into graph based code
 
 
 #### Week 4: Distributed training
