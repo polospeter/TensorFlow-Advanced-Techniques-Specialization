@@ -105,6 +105,15 @@ Mask R-CNN https://arxiv.org/abs/1703.06870
 #### Week 2:
 This week, you’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
 
+Learning Objectives:
+
+Get a conceptual overview of Regional CNN (R-CNN), Fast-RCNN, and Faster R-CNN.
+Retrieve the R-CNN model from TensorFlow hub and use it to perform object detection.
+Use TensorFlow’s object detection API to visualize the predicted bounding boxes from an object detection model
+Go beyond models in TensorFlow Hub: Load and configure a Resnet-50 model that isn’t on TensorFlow Hub, restore pre-trained weights, and select the parts of the model to retrain.
+Use the object detection API to manually annotate images for object detection
+Implement a custom training loop to fine-tune a model using just 5 training examples.
+
 R-CNN:
 https://arxiv.org/abs/1311.2524
 
