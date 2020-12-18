@@ -102,3 +102,10 @@ http://liangchiehchen.com/projects/DeepLab.html
 Mask R-CNN https://arxiv.org/abs/1703.06870
 
 
+#### Week 2:
+
+R-CNN:
+https://arxiv.org/abs/1311.2524
+
+Fast- R-CNN:
+https://arxiv.org/abs/1504.08083
