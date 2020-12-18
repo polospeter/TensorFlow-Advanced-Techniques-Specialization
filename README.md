@@ -82,13 +82,13 @@ Get a conceptual overview of image classification, object localization, object d
 
 Learning Objectives:
 
--Distinguish between object localization and object detection
--Distinguish between object detection and image segmentation
--Distinguish between semantic segmentation and instance segmentation
--Explain what is transfer learning and why it's used
--Describe design options when using transfer learning
--Implement object localization with a CNN
--Implement an image classifier with transfer learning
+- Distinguish between object localization and object detection
+- Distinguish between object detection and image segmentation
+- Distinguish between semantic segmentation and instance segmentation
+- Explain what is transfer learning and why it's used
+- Describe design options when using transfer learning
+- Implement object localization with a CNN
+- Implement an image classifier with transfer learning
 
 Papers about Image segmentation models:
 
