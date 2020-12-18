@@ -38,9 +38,9 @@ This week, you will get a detailed look at the fundamental building blocks of Te
 
 Learning Objectives:
 
--Use various TensorFlow functions to create tensor objects  
--Describe the difference between graph-based execution and eager execution in TensorFlow  
--Use TensorFlow’s GradientTape to calculate derivatives of loss functions  
+- Use various TensorFlow functions to create tensor objects  
+- Describe the difference between graph-based execution and eager execution in TensorFlow  
+- Use TensorFlow’s GradientTape to calculate derivatives of loss functions  
 
 Reference: CNN for visual recognition https://cs231n.github.io/neural-networks-3/#summary
 
