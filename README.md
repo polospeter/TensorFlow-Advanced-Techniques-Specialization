@@ -49,8 +49,8 @@ This week, you will build custom training loops using GradientTape and TensorFlo
 
 Learning Objectives:
 
--Define the steps in a custom training loop  
--Implement custom training loops using GradientTape  
+- Define the steps in a custom training loop  
+- Implement custom training loops using GradientTape  
 -Implement a custom training loop with data from TensorFlow Datasets  
 
 #### Week 3: Graph mode
