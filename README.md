@@ -108,7 +108,7 @@ This week, you’ll get an overview of some popular object detection models, suc
 Learning Objectives:
 
 -Get a conceptual overview of Regional CNN (R-CNN), Fast-RCNN, and Faster R-CNN.
-Retrieve the R-CNN model from TensorFlow hub and use it to perform object detection.
+- Retrieve the R-CNN model from TensorFlow hub and use it to perform object detection.
 Use TensorFlow’s object detection API to visualize the predicted bounding boxes from an object detection model
 Go beyond models in TensorFlow Hub: Load and configure a Resnet-50 model that isn’t on TensorFlow Hub, restore pre-trained weights, and select the parts of the model to retrain.
 Use the object detection API to manually annotate images for object detection
