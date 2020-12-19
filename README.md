@@ -124,6 +124,7 @@ tENSORFLOW Hub:
 https://www.tensorflow.org/hub
 
 #### Week 3:
+This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
 
 
 #### Week 4:
