@@ -129,7 +129,7 @@ This week is all about image segmentation using variations of the fully convolut
 Learning Objectives:
 
 - Describe the conceptual design of fully convolutional neural networks and subsequent models based on it
-Describe the decoder section of the fully convolutional neural network
+- Describe the decoder section of the fully convolutional neural network
 Describe two methods of upsampling: simple scaling and transposed convolutions
 Build the encoder and decoder sections of a fully convolutional neural network
 Evaluate a segmentation model’s performance using intersection-over-union and Dice score
