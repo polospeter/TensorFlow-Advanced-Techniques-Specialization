@@ -126,5 +126,16 @@ https://www.tensorflow.org/hub
 #### Week 3:
 This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
 
+Learning Objectives:
+
+- Describe the conceptual design of fully convolutional neural networks and subsequent models based on it
+Describe the decoder section of the fully convolutional neural network
+Describe two methods of upsampling: simple scaling and transposed convolutions
+Build the encoder and decoder sections of a fully convolutional neural network
+Evaluate a segmentation model’s performance using intersection-over-union and Dice score
+Describe the conceptual design of the U-Net model
+Build a U-Net model for image segmentation
+Use the Mask R-CNN to perform instance segmentation
+
 
 #### Week 4:
