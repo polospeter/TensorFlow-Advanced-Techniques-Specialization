@@ -132,10 +132,10 @@ Learning Objectives:
 - Describe the decoder section of the fully convolutional neural network
 - Describe two methods of upsampling: simple scaling and transposed convolutions
 - Build the encoder and decoder sections of a fully convolutional neural network
-Evaluate a segmentation model’s performance using intersection-over-union and Dice score
-Describe the conceptual design of the U-Net model
-Build a U-Net model for image segmentation
-Use the Mask R-CNN to perform instance segmentation
+- Evaluate a segmentation model’s performance using intersection-over-union and Dice score
+- Describe the conceptual design of the U-Net model
+- Build a U-Net model for image segmentation
+- Use the Mask R-CNN to perform instance segmentation
 
 
 #### Week 4:
