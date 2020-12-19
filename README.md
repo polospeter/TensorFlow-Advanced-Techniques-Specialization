@@ -144,7 +144,7 @@ This week, you’ll learn about the importance of model interpretability, which 
 Learning Objectives: 
 
 - Explain why model interpretation is important
-Calculate class activation maps to visualize the parts of the image that a model uses to make its predictions.
+- Calculate class activation maps to visualize the parts of the image that a model uses to make its predictions.
 Calculate saliency maps to visualize the parts of the image that a model uses to make its predictions.
 Implement Gradient-weighted Class Activation Mapping (GradCAM) to identify parts of the image that are important in a model’s predictions.
 Describe how visualization can help to improve a model’s design
