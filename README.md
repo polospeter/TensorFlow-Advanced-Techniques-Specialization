@@ -139,3 +139,12 @@ Learning Objectives:
 
 
 #### Week 4:
+This week, you’ll learn about the importance of model interpretability, which is the understanding of how your model arrives at its decisions. You’ll also implement class activation maps, saliency maps, and gradient-weighted class activation maps to identify which parts of an image are being used by your model to make its predictions. You’ll also see an example of how visualizing a model’s intermediate layer activations can help to improve the design of a famous network, AlexNet.
+
+Learning Objectives: 
+
+- Explain why model interpretation is important
+Calculate class activation maps to visualize the parts of the image that a model uses to make its predictions.
+Calculate saliency maps to visualize the parts of the image that a model uses to make its predictions.
+Implement Gradient-weighted Class Activation Mapping (GradCAM) to identify parts of the image that are important in a model’s predictions.
+Describe how visualization can help to improve a model’s design
