@@ -51,7 +51,7 @@ Learning Objectives:
 
 - Define the steps in a custom training loop  
 - Implement custom training loops using GradientTape  
--Implement a custom training loop with data from TensorFlow Datasets  
+- Implement a custom training loop with data from TensorFlow Datasets  
 
 #### Week 3: Graph mode
 This week, you’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
@@ -67,9 +67,9 @@ This week, you will harness the power of distributed training to process more da
 
 Learning Objectives:  
 
--Explain how distributed training is different from regular model training
--Use the Mirrored Strategy to train a model on multiple GPUs on the same device
--Use the TPU Strategy to train on multiple cores of a TPU
+- Explain how distributed training is different from regular model training
+- Use the Mirrored Strategy to train a model on multiple GPUs on the same device
+- Use the TPU Strategy to train on multiple cores of a TPU
 
 References used in Other Distributed Strategies:
 https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras
