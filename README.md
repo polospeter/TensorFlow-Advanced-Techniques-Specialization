@@ -123,7 +123,7 @@ https://arxiv.org/abs/1504.08083
 tENSORFLOW Hub:
 https://www.tensorflow.org/hub
 
-#### Week 3:
+#### Week 3: Image Segmentation
 This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
 
 Learning Objectives:
@@ -138,7 +138,7 @@ Learning Objectives:
 - Use the Mask R-CNN to perform instance segmentation
 
 
-#### Week 4:
+#### Week 4: Visualization and Interpretability
 This week, you’ll learn about the importance of model interpretability, which is the understanding of how your model arrives at its decisions. You’ll also implement class activation maps, saliency maps, and gradient-weighted class activation maps to identify which parts of an image are being used by your model to make its predictions. You’ll also see an example of how visualizing a model’s intermediate layer activations can help to improve the design of a famous network, AlexNet.
 
 Learning Objectives: 
