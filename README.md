@@ -2,7 +2,7 @@
 
 This repository will contain my solutions for the Tensorflow: Advanced Specialization course on Coursera.  
 
-## Course 1: Custom Models,Layers, and Loss Functions with Tensorflow
+## Course 1: Custom Models,Layers, and Loss Functions with Tensorflow 
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
