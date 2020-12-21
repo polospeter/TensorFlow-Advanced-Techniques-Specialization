@@ -102,7 +102,7 @@ http://liangchiehchen.com/projects/DeepLab.html
 Mask R-CNN https://arxiv.org/abs/1703.06870
 
 
-#### Week 2:
+#### Week 2: Object detection
 This week, you’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
 
 Learning Objectives:
