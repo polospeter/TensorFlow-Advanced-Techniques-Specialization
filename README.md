@@ -99,7 +99,8 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation https://lmb.info
 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 http://liangchiehchen.com/projects/DeepLab.html
 
-Mask R-CNN https://arxiv.org/abs/1703.06870
+Mask R-CNN:
+https://arxiv.org/abs/1703.06870
 
 
 #### Week 2: Object detection
